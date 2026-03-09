@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I am a Computer Science student  with a solid foundation in **Artificial Intelligence & Machine Learning**. Currently, I am channeling that analytical mindset into mastering **Full-Stack Web Development**.
+I am a Computer Science student with a solid foundation in **Artificial Intelligence & Machine Learning**. Currently, I am channeling that analytical mindset into mastering **Full-Stack Web Development**.
 
 My journey is about more than just syntax; it's about building the complete architectural bridge between complex intelligent models and the end-user. I believe the most impactful AI is the one that's accessible through a seamless, robust web interface.
 
