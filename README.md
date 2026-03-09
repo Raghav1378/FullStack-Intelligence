@@ -96,12 +96,7 @@ Before diving into the web, I spent significant time building and tuning models.
 
 ## 📊 Activity Metrics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raghav1378&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=38BDF8" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav1378&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" />
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav1378&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=38BDF8" />
